@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs70_KristinaShepeleva/static/css/main.363b66b3.css",
-    "main.js": "/react_node_fs70_KristinaShepeleva/static/js/main.8a178d66.js",
+    "main.js": "/react_node_fs70_KristinaShepeleva/static/js/main.2b26184e.js",
     "static/css/456.dcf5641f.chunk.css": "/react_node_fs70_KristinaShepeleva/static/css/456.dcf5641f.chunk.css",
     "static/js/456.c277ef7f.chunk.js": "/react_node_fs70_KristinaShepeleva/static/js/456.c277ef7f.chunk.js",
     "static/css/806.e62528f9.chunk.css": "/react_node_fs70_KristinaShepeleva/static/css/806.e62528f9.chunk.css",
@@ -84,7 +84,7 @@
     "static/media/menu-hamburger.svg": "/react_node_fs70_KristinaShepeleva/static/media/menu-hamburger.d08cc434113ea92f636dfe1f986a640b.svg",
     "static/media/plus-big.svg": "/react_node_fs70_KristinaShepeleva/static/media/plus-big.e5a22c81713ee011d3ee2fbc798c7cd9.svg",
     "main.363b66b3.css.map": "/react_node_fs70_KristinaShepeleva/static/css/main.363b66b3.css.map",
-    "main.8a178d66.js.map": "/react_node_fs70_KristinaShepeleva/static/js/main.8a178d66.js.map",
+    "main.2b26184e.js.map": "/react_node_fs70_KristinaShepeleva/static/js/main.2b26184e.js.map",
     "456.dcf5641f.chunk.css.map": "/react_node_fs70_KristinaShepeleva/static/css/456.dcf5641f.chunk.css.map",
     "456.c277ef7f.chunk.js.map": "/react_node_fs70_KristinaShepeleva/static/js/456.c277ef7f.chunk.js.map",
     "806.e62528f9.chunk.css.map": "/react_node_fs70_KristinaShepeleva/static/css/806.e62528f9.chunk.css.map",
@@ -109,6 +109,6 @@
   },
   "entrypoints": [
     "static/css/main.363b66b3.css",
-    "static/js/main.8a178d66.js"
+    "static/js/main.2b26184e.js"
   ]
 }
